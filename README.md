@@ -25,7 +25,7 @@ This application provides an API endpoint that evaluates account data and genera
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dispute-letter-generator.git
+   git clone https://github.com/Sayiqajabeen/dispute-letter-generator.git
    cd dispute-letter-generator
    ```
 
