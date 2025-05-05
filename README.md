@@ -1,4 +1,4 @@
-# Dispute Letter Generator
+# Django Dispute Letter Generator
 
 A Django REST API service that automatically generates dispute letters based on account and payment status criteria.
 
